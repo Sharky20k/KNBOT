@@ -27,4 +27,4 @@ client.on('ready', () => {
 
 })
 
-client.login("NTIyNzgzNjI5MDk3NTY2MjEw.DvQFcw.iWf1wXTT36bIg9qDsXe-2-CUhk0")
+client.login(process.env.NTIyNzgzNjI5MDk3NTY2MjEw.DvQFcw.iWf1wXTT36bIg9qDsXe-2-CUhk0)
